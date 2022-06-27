@@ -24,8 +24,8 @@ section{
     background-color: #303030;
     background-repeat: no-repeat;
     position: relative;
-    /* top: -800px; */
-    width: 100% !important;
+    top: -800px;
+    /* width: 900% !important; */
 }
 .image-background img{
     height: 780px;
